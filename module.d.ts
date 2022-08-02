@@ -1,0 +1,1 @@
+declare module '@storybook/react/types-6-0';
